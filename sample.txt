@@ -1,0 +1,1 @@
+This is some new sample text from sample.txt
